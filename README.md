@@ -10,3 +10,5 @@ My name is Andrew Carreiro and I am a, as the sub-title describes a Father of tw
 Thanks for reading,
 
 Andy Carreiro
+
+![headshot](IMG_20210223_080101.jpg)]
