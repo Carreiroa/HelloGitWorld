@@ -11,4 +11,5 @@ Thanks for reading,
 
 Andy Carreiro
 
-![headshot](IMG_20210223_080101.jpg)]
+<img src="IMG_20210223_080101.jpg" alt="headshot" width="200"/>
+
